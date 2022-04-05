@@ -74,10 +74,10 @@ void moveZeroes(struct Node **head)
     if(*head == NULL)
       return;
     //Your code here
-    Node *temp,*p=(*head)->next,*prev=*head;
+    Node *temp,*p=*head,*prev;
     
     while(p!=NULL){
-        if( p->data==0){
+        if( p!=*head and p->data==0){
             temp = p;
             prev ->next = p->next;
             
