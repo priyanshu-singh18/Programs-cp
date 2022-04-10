@@ -13,27 +13,28 @@ class Solution{
 public:
     int minOperations(int *a,int n)
     {
-        // int sum=0,dif=0;
-        // priority_queue<int,vector<int>, greater<int>> pq;
+        int sum=0,dif=0;
+        priority_queue<int,vector<int>, greater<int>> pq;
         
-        // for(int i=0;i<n;i++){
-        //     if(!pq.empty() and pq.top()<a[i]){
-        //         dif = a[i] - pq.top();
-        //         pq.pop();
-        //         sum+=dif;
-        //     }
-        //     pq.push(a[i]);
-        // }
-        // return sum;
-        int count = 0;
-		priority_queue<int ,vector<int>, greater<int>>pq; 
-		for (int i = 0; i < n; i++){ 
-			if (!pq.empty() && pq.top() < a[i])
-				count += a[i] - pq.top(),pq.push(a[i]),
-				pq.pop();
-			pq.push(a[i]); 
-		} 
-		return count; 
+        for(int i=0;i<n;i++){
+            if(!pq.empty() and pq.top()<a[i]){
+                dif = a[i] - pq.top();
+                pq.pop();
+                sum+=dif;
+                pq.push(a[i]);
+            }
+            pq.push(a[i]);
+        }
+        return sum;
+//         int count = 0;
+// 		priority_queue<int ,vector<int>, greater<int>>pq; 
+// 		for (int i = 0; i < n; i++){ 
+// 			if (!pq.empty() && pq.top() < a[i])
+// 				count += a[i] - pq.top(),pq.push(a[i]),
+// 				pq.pop();
+// 			pq.push(a[i]); 
+// 		} 
+// 		return count; 
     }
 };
 
