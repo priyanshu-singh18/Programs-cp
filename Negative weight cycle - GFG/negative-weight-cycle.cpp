@@ -11,6 +11,7 @@ public:
 	   {
 	        adj[x[0]].push_back({x[1],x[2]});   
 	   }
+	   // bellman ford
 	   vector<int> d(n,1e9);
 	   bool is=false;
 	   for(int i=0;i<n;i++)
