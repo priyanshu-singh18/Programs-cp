@@ -32,16 +32,32 @@ public:
         
         if(ar.size() == 0)
             return 0;
-        
-        vector<int>dp(3,0);
-        vector<int>mn(3,ar[0]);
-        
-        for(int i=1;i<ar.size();i++){
-            for(int k=1;k<=2;k++){
-                mn[k] = min(mn[k],ar[i] - dp[k-1]);
-                dp[k] = max(dp[k],ar[i] - mn[k]);
-            }
+        int n=ar.size();
+        int mini=ar[0];
+        multiset<int> s;
+        for(int i=1;i<n;i++)
+        {
+            s.insert(ar[i]);
         }
-        return dp[2];
+        int ans=0;
+        vector<int> suf(n);
+        int maxi=ar[n-1];
+        for(int i=n-2;i>=0;i--)
+        {
+            maxi=max(maxi,ar[i]);
+            suf[i]=max(suf[i+1],maxi-ar[i]);
+        }
+        for(int i=1;i<n;i++)
+        {
+            int second=0;
+            if(i+1<n)
+            {
+                second=suf[i+1];
+            }
+            mini=min(mini,ar[i]);
+            // cout<<mini<<' '<<ar[i]<<' '<<second<<'\n'; 
+            ans=max(ans,ar[i]-mini+second);
+        }
+        return ans;
     }
 };
