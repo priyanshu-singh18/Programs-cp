@@ -1,22 +1,21 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int n = numCourses;
-        vector<int> adj[n];
-        vector<int> indeg(n,0);
-        vector<int> topo;
-        //kahns algorithm
+    bool canFinish(int numCourses, vector<vector<int>>& pre) {
+        vector<int> adj[numCourses];
+        vector<int> inDegree(numCourses,0);
         
-        for(auto it : prerequisites){
-            adj[it[1]].push_back(it[0]);
-            indeg[it[0]]++;
+        for(int i=0;i<pre.size();i++){
+            adj[pre[i][1]].push_back(pre[i][0]);    
+            inDegree[pre[i][0]]++;
         }
         
         queue<int> qop;
+        vector<int> topo;
         
-        for(int i=0;i<n;i++)
-            if(indeg[i]==0)
+        for(int i=0;i<numCourses;i++){
+            if(inDegree[i] == 0)
                 qop.push(i);
+        }
         
         while(!qop.empty()){
             int node = qop.front();
@@ -25,21 +24,15 @@ public:
             topo.push_back(node);
             
             for(auto it : adj[node]){
-                if(indeg[it]>0){
-                    indeg[it]--;
-                    
-                    if(indeg[it]==0)
+                if(inDegree[it]>=1){
+                    inDegree[it]--;
+                    if(inDegree[it]==0)
                         qop.push(it);
                 }
-                else
-                    continue;
             }
-            
         }
-        
-        if(topo.size()==n)
+        if(topo.size( ) == numCourses)
             return true;
-        
         return false;
         
     }
