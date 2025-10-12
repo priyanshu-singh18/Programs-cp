@@ -7,6 +7,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,4 +31,24 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
+## Math
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
