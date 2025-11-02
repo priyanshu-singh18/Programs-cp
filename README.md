@@ -8,6 +8,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu-singh18/Programs-cp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Depth-First Search
 |  |
@@ -28,6 +29,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu-singh18/Programs-cp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Graph
 |  |
 | ------- |
@@ -64,4 +66,8 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu-singh18/Programs-cp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
