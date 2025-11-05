@@ -14,6 +14,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
@@ -75,12 +76,15 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
