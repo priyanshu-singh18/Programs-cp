@@ -17,11 +17,13 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
@@ -36,6 +38,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
 ## Math
 |  |
@@ -91,4 +94,12 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0145-binary-tree-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
