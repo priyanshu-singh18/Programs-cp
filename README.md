@@ -18,18 +18,21 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
@@ -39,6 +42,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0801-is-graph-bipartite) |
 ## Math
