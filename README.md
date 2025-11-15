@@ -8,6 +8,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
+| [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0733-flood-fill) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu-singh18/Programs-cp/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -27,6 +28,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
@@ -41,6 +43,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0733-flood-fill) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu-singh18/Programs-cp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Graph
@@ -57,6 +60,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
+| [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
