@@ -14,6 +14,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0733-flood-fill) |
+| [1046-last-stone-weight](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1046-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1470-shuffle-the-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -133,6 +134,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1046-last-stone-weight) |
 ## Shortest Path
 |  |
 | ------- |
