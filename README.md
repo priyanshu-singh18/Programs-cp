@@ -129,6 +129,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
@@ -139,6 +140,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -158,4 +160,12 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
