@@ -8,6 +8,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | ------- |
 | [0130-surrounded-regions](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
@@ -86,6 +87,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
@@ -95,6 +97,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Simulation
 |  |
@@ -122,9 +125,26 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0744-network-delay-time) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
