@@ -6,6 +6,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +102,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
