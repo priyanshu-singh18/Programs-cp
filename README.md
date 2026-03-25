@@ -165,9 +165,14 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
