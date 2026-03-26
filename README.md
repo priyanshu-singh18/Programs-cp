@@ -6,6 +6,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
@@ -144,6 +145,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -177,4 +179,8 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
