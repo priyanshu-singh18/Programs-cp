@@ -10,6 +10,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0056-merge-intervals](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0200-number-of-islands) |
+| [0303-range-sum-query-immutable](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0485-max-consecutive-ones) |
@@ -183,4 +184,12 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
