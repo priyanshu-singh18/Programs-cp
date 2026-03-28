@@ -16,6 +16,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +103,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0141-linked-list-cycle](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
@@ -131,6 +133,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -224,4 +227,8 @@ Here you can find some programs which requires good thinking skills (simply whic
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0643-maximum-average-subarray-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
