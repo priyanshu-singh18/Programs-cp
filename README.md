@@ -19,6 +19,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0525-contiguous-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0733-flood-fill) |
 | [1046-last-stone-weight](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1046-last-stone-weight) |
@@ -210,4 +211,8 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
