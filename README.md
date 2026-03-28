@@ -14,6 +14,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0733-flood-fill) |
@@ -93,6 +94,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String
@@ -192,4 +194,5 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
