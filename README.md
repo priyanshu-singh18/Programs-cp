@@ -23,6 +23,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0643-maximum-average-subarray-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1046-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1470-shuffle-the-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1470-shuffle-the-array) |
@@ -134,6 +135,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -231,4 +233,5 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
