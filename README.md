@@ -116,6 +116,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -137,6 +138,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0739-daily-temperatures) |
 ## Tree
@@ -227,6 +229,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +238,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
