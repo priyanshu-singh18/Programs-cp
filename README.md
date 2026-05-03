@@ -119,6 +119,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0402-remove-k-digits](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0796-rotate-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -241,4 +242,8 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [0402-remove-k-digits](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0739-daily-temperatures) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
