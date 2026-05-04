@@ -81,12 +81,14 @@ Here you can find some programs which requires good thinking skills (simply whic
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0202-happy-number) |
+| [0788-rotated-digits](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0788-rotated-digits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0542-01-matrix) |
+| [0788-rotated-digits](https://github.com/priyanshu-singh18/Programs-cp/tree/master/0788-rotated-digits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
