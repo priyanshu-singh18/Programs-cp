@@ -29,6 +29,7 @@ Here you can find some programs which requires good thinking skills (simply whic
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1470-shuffle-the-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/priyanshu-singh18/Programs-cp/tree/master/1929-concatenation-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu-singh18/Programs-cp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/priyanshu-singh18/Programs-cp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
